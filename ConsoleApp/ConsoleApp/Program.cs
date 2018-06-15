@@ -15,6 +15,7 @@ namespace ConsoleApp
 
             Console.WriteLine($"x + y = {x} + {y}");
             Console.ReadLine();
+            Console.WriteLine();
         }
     }
 }
